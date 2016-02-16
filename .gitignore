@@ -87,3 +87,6 @@ Temporary Items
 
 #Temporary data
 tempdata/
+
+#vim swap files
+*.swp
